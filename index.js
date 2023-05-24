@@ -28,6 +28,3 @@ window.onload = function (event) {
   player1img.src = `./images/dice${player1img.dataset.dice}.png`;
   player2img.src = `./images/dice${player2img.dataset.dice}.png`;
 };
-
-
-function concatVowels
